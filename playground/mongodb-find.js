@@ -28,3 +28,5 @@ MongoClient.connect('mongodb://localhost:27017/TodoApp', (err, db) => {
 });
 
 // http://mongodb.github.io/node-mongodb-native/2.0/api/
+
+//query all users that has name ...
